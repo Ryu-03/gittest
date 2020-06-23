@@ -1,2 +1,1 @@
 webとeclipseを行き来して色々書いてみます。
-hello
