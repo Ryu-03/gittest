@@ -6,7 +6,7 @@ public class BookMain {
 		Book book = new Book();
 		
 		book.setTitle("Train Collection");
-		book.setPage(300);
+		book.setPage(250);
 		
 		System.out.println("Title:" + book.getTitle() + " , " +  "Page:" + book.getPage());
 	}
