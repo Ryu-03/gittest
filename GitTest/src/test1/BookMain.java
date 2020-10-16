@@ -5,8 +5,8 @@ public class BookMain {
 		
 		Book book = new Book();
 		
-		book.setTitle("Train Collection");
-		book.setPage(250);
+		book.setTitle("World Animal");
+		book.setPage(300);
 		
 		System.out.println("Title: " + book.getTitle());
 		System.out.println("Page: " + book.getPage());
