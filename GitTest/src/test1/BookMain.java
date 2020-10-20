@@ -10,6 +10,7 @@ public class BookMain {
 		
 		System.out.println("Title: " + book.getTitle());
 		System.out.println("Page: " + book.getPage());
+		System.out.println("20201020");
 	}
 
 }
