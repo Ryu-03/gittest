@@ -5,8 +5,8 @@ public class BookMain {
 		
 		Book book = new Book();
 		
-		book.setTitle("Asian Recipe");
-		book.setPage(123);
+		book.setTitle("Japanese Recipe");
+		book.setPage(500);
 		
 		System.out.println("Title: " + book.getTitle());
 		System.out.println("Page: " + book.getPage());
